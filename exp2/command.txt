@@ -1,0 +1,9 @@
+python ./tools/train.py ./configs/resnet9.py --seed 1
+python ./tools/train.py ./configs/resnet18.py --seed 1
+python ./tools/train.py ./configs/resnet34.py --seed 1
+python ./tools/train.py ./configs/resnet50.py --seed 1
+
+python ./tools/train.py ./configs/vgg11_bn.py --seed 1
+python ./tools/train.py ./configs/vgg13_bn.py --seed 1
+python ./tools/train.py ./configs/vgg16_bn.py --seed 1
+python ./tools/train.py ./configs/vgg19_bn.py --seed 1
