@@ -7,19 +7,19 @@ Design a feedforward neural network to do regression task. Please refer to [exp1
 
 - A Simple Fully Connected Neural Network
 
-![](images\exp1\train_val_loss.png)
+![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/train_val_loss.png)
 
 - Different Hidden Layer Numbers
 
-  ![](images\exp1\diff_layer_num.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/diff_layer_num.png)
 
 - Different Neuron Numbers
 
-  ![](images\exp1\diff_neuron_num.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/diff_neuron_num.png)
 
 - Different Activation Functions
 
-  ![](images\exp1\diff_activation.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/diff_activation.png)
 
 ## Exp2: CIFAR-10 Image Classification Based On CNN
 
@@ -76,43 +76,44 @@ Results:
 
 - A Simple Resnet (Resnet9)
 
-  <center>![](images\exp2\resnet9.png)<center>
+  <img src="https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/resnet9.png" div align=center />
 
-  ![](images\exp2\resnet9_train.png)
+
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/resnet9_train.png)
 
 - VGG11_bn
 
-  ![](images\exp2\vgg11_bn_train.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/vgg11_bn_train.png)
 
 - VGG13_bn
 
-  ![](images\exp2\vgg13_bn_traint.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/vgg13_bn_traint.png)
 
 - VGG16_bn
 
-  ![](images\exp2\vgg16_bn_train.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/vgg16_bn_train.png)
 
 - VGG19_bn
 
-  ![](images\exp2\vgg19_bn_train.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/vgg19_bn_train.png)
 
 - Compare VGG
 
-  ![](images\exp2\vgg.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/vgg.png)
 
 - ResNet13
 
-  ![](images\exp2\resnet13_train.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/resnet13_train.png)
 
 - ResNet34
 
-  ![](images\exp2\resnet34_train.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/resnet34_train.png)
 
 - ResNet50
 
-  ![](images\exp2\resnet50_train.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/resnet50_train.png)
 
 - Compare ResNet
 
-  ![](images\exp2\resnet.png)
+  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp2/resnet.png)
 
