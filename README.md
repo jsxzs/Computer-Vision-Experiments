@@ -3,7 +3,7 @@ Computer Vision, CS, HUST, 2023
 
 ## Exp1: Regression
 
-Design a feedforward neural network to do regression task. Please refer to [exp1](exp1\上机实验一.docx) for more details.
+Design a feedforward neural network to do regression task. Please refer to [exp1](exp1) for more details.
 
 - A Simple Fully Connected Neural Network
 
