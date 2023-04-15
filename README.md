@@ -130,6 +130,7 @@ Folder structure is the same as exp2.
 
 Results:
 - ResNet9
+  <br>
   The feature maps of the last conv layer:
   ![](images/exp3/resnet9_featuremaps.png)
 
@@ -137,6 +138,7 @@ Results:
   ![](images/exp3/resnet9_curve.png)
 
 - VGG13_bn
+  <br>
   The feature maps of the last conv layer:
   ![](images/exp3/vgg13bn_featuremaps.png)
 
