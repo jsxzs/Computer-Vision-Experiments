@@ -1,0 +1,1 @@
+python ./tools/train.py ./configs/vgg13_bn.py --seed 1
