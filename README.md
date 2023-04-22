@@ -7,11 +7,11 @@ If you find my project useful, don't hesitate to give it a star.
 Design a feedforward neural network to do regression task. Please refer to [exp1](exp1) for more details.
 
 - A Simple Fully Connected Neural Network
-  <img src="images/exp1/train_val_loss.png" style="zoom:70%" />
+  <img src="images/exp1/train_val_loss.png" style="zoom:50%" />
 
 - Different Hidden Layer Numbers
 
-  <img src="images/exp1/diff_layer_num.png" style="zoom:70%" />
+  <img src="images/exp1/diff_layer_num.png" style="zoom:50%" />
 
 - Different Neuron Numbers
 
