@@ -7,20 +7,19 @@ If you find my project useful, don't hesitate to give it a star.
 Design a feedforward neural network to do regression task. Please refer to [exp1](exp1) for more details.
 
 - A Simple Fully Connected Neural Network
-
-![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/train_val_loss.png)
+  <img src="images/exp1/train_val_loss.png" style="zoom:70%" />
 
 - Different Hidden Layer Numbers
 
-  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/diff_layer_num.png)
+  <img src="images/exp1/diff_layer_num.png" style="zoom:70%" />
 
 - Different Neuron Numbers
 
-  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/diff_neuron_num.png)
+  <img src="images/exp1/diff_neuron_num.png" style="zoom:70%" />
 
 - Different Activation Functions
 
-  ![](https://raw.githubusercontent.com/jsxzs/Computer-Vision-Experiment/main/images/exp1/diff_activation.png)
+  <img src="images/exp1/diff_activation.png" style="zoom:70%" />
 
 ## Exp2: CIFAR-10 Image Classification Based On CNN
 
