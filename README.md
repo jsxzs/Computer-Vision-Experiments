@@ -178,6 +178,7 @@ Computer-Vision-Experiment\exp4
 ```
 
 As shown below, backdoor trigger is a 4x4 white square on the bottom right corner of the input image and attack target is airplane.
+
 ![](images/exp4/trigger.png)
 
 Results:
