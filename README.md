@@ -182,5 +182,6 @@ As shown below, backdoor trigger is a 4x4 white square on the bottom right corne
 ![](images/exp4/trigger.png)
 
 Results:
+
 ![](images/exp4/print.png)
 ![](images/exp4/curves.png)
