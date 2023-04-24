@@ -1,5 +1,5 @@
-# Computer-Vision-Experiment
-Computer Vision, CS, HUST, 2023  <br>
+# Computer-Vision-Experiments
+Computer Vision(CV), CS, HUST, 2023  <br>
 If you find my project useful, don't hesitate to give it a star.
 
 ## Exp1: Regression
@@ -35,15 +35,6 @@ Computer-Vision-Experiment\exp2
 │ exp2_cifar10.ipynb
 ├─configs       
 ├─datasets
-│  └─cifar-10-batches-py
-│          batches.meta
-│          data_batch_1
-│          data_batch_2
-│          data_batch_3
-│          data_batch_4
-│          data_batch_5
-│          readme.html
-│          test_batch      
 ├─modules
 ├─tools
 └─work_dir
