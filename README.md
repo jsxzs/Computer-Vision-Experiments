@@ -47,7 +47,7 @@ Computer-Vision-Experiment\exp2
         ├─vgg11_bn    
         ├─vgg13_bn
         ├─vgg16_bn
-        └─vgg19_b
+        └─vgg19_bn
 ```
 
 Results:
