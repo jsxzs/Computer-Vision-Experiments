@@ -15,8 +15,8 @@ Please refer to [exp3](exp3) for more details.
 
 
 ## Exp4: Backdoor Attacks on DNN
+Please refer to [exp4](exp4) for more detai
 
-Please refer to [exp4](exp4) for more details.
 
 ## Final Exp: A Survey in one of computer vision fields or Specific Experiment Report in Object Detection
 Please refer to [final_exp](final_exp) for more details.
